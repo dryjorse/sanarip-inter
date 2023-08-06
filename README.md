@@ -21,7 +21,7 @@ github ссылка на backend - https://github.com/sneakersinter/sanaripinter
 
 ## Установка
 
-1. Сначала, склонируйте репозиторий: `git clone https://github.com/dryjorse/sanatip-inter.git`
-2. Перейдите в директорию проекта: `cd sanatip-inter`
+1. Сначала, склонируйте репозиторий: `git clone https://github.com/dryjorse/sanarip-inter.git`
+2. Перейдите в директорию проекта: `cd sanarip-inter`
 3. Установите зависимости: `npm install` (или `yarn install`, если используете Yarn)
 4. Запустите проект: `npm start`
